@@ -1,0 +1,1 @@
+& "$Env:ProgramFiles\AutoHotKey\Compiler\Ahk2Exe.exe" /in "Google Tasks.ahk" /out "dist\Google Tasks.exe" /base "$Env:ProgramFiles\AutoHotkey\v2\AutoHotkey.exe" /icon "assets\Google Tasks.ico"
